@@ -2,7 +2,7 @@
   "name": "vue-reader",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Archie <614203973@qq.com>",
+  "author": "Archie <1598034522@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
